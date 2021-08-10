@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Digi-app/static/css/main.93229225.chunk.css",
+    "main.js": "/Digi-app/static/js/main.397bbab6.chunk.js",
+    "main.js.map": "/Digi-app/static/js/main.397bbab6.chunk.js.map",
+    "runtime-main.js": "/Digi-app/static/js/runtime-main.3521b968.js",
+    "runtime-main.js.map": "/Digi-app/static/js/runtime-main.3521b968.js.map",
+    "static/js/2.f91603fb.chunk.js": "/Digi-app/static/js/2.f91603fb.chunk.js",
+    "static/js/2.f91603fb.chunk.js.map": "/Digi-app/static/js/2.f91603fb.chunk.js.map",
+    "static/js/3.904bb8cf.chunk.js": "/Digi-app/static/js/3.904bb8cf.chunk.js",
+    "static/js/3.904bb8cf.chunk.js.map": "/Digi-app/static/js/3.904bb8cf.chunk.js.map",
+    "index.html": "/Digi-app/index.html",
+    "static/css/main.93229225.chunk.css.map": "/Digi-app/static/css/main.93229225.chunk.css.map",
+    "static/js/2.f91603fb.chunk.js.LICENSE.txt": "/Digi-app/static/js/2.f91603fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3521b968.js",
+    "static/js/2.f91603fb.chunk.js",
+    "static/css/main.93229225.chunk.css",
+    "static/js/main.397bbab6.chunk.js"
+  ]
+}
